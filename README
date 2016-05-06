@@ -1,0 +1,5 @@
+=========================
+ newhope-tor-testvectors
+=========================
+
+Code for generating the NewHope handshake test vectors included in Tor proposal #XXX.
